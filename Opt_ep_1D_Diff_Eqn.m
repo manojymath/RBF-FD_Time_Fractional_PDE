@@ -19,7 +19,7 @@
 % % Err_2 ---------  ep minimizing Global error
 
 %% % % % % % % The function file to find Max, LTE and Global Error
-function [Err_1, LTE, Err_2] = Opt_ep_1D_Diff_Eqn_Fn_GitHub(ep,T) % % % with Exact
+function [Err_1, LTE, Err_2] = Opt_ep_1D_Diff_Eqn(ep,T) % % % with Exact
 
 %% % % % % %  % Intial considerations
 % % % % % % % % Problem setup
